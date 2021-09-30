@@ -23,4 +23,5 @@
 * [Register redhat subscription](register-redhat-subscription.md)
 * [Execute command remotely server](execute-command-remotely-server.md)
 * [at \( Linux Scheduling\)](at-linux-scheduling.md)
+* [Ansible on WSL](ansible-on-wsl.md)
 
