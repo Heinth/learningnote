@@ -8,7 +8,7 @@
 * [Firewalld \(Linux\)](firewalld-linux.md)
 * [Ufw \(Linux\)](ufw-linux.md)
 * [Container \( Docker basic command\)](container-docker-basic-command.md)
-* [Awscli configure in ubuntu \(Linux\)](untitled-2.md)
+* [Awscli configure in ubuntu \(Linux\)](awcli-configure-in-ubuntu.md)
 * [Installation of kubectl in ubuntu](installation-of-kubectl-in-ubuntu.md)
 * [Outline server](outline-server.md)
 * [Installation terraform in ubuntu](installation-terraform-in-ubuntu.md)
