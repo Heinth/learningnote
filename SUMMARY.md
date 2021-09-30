@@ -18,7 +18,6 @@
 * [Scaling](scaling.md)
 * [Redhat Insights](redhat-insights.md)
 * [Monoliths & Microservice](monoliths-and-microservice.md)
-* [Deploying node.js website using Laas](untitled-3.md)
 * [Go App docker image](go-app-docker-image.md)
 * [K8s Intro](k8s-intro.md)
 * [Register redhat subscription](register-redhat-subscription.md)
