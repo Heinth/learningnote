@@ -25,3 +25,4 @@
 * [at ( Linux Scheduling)](at-linux-scheduling.md)
 * [Ansible on WSL](ansible-on-wsl.md)
 * [Redhat kernel manually upgrade](redhat-kernel-manually-upgrade.md)
+* [2 Ways to check installed packages in linux](2-ways-to-check-installed-packages-in-linux.md)
