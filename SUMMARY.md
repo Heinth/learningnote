@@ -27,3 +27,4 @@
 * [Redhat kernel manually upgrade](redhat-kernel-manually-upgrade.md)
 * [2 Ways to check installed packages in linux](2-ways-to-check-installed-packages-in-linux.md)
 * [Find files or dir by owner and copy](find-files-or-dir-by-owner-and-copy.md)
+* [Create File of a Given Size](create-file-of-a-given-size.md)
