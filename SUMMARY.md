@@ -29,3 +29,4 @@
 * [Find files or dir by owner and copy](find-files-or-dir-by-owner-and-copy.md)
 * [Create File of a Given Size](create-file-of-a-given-size.md)
 * [Extending LV step by step](extending-lv-step-by-step.md)
+* [How to Delete or Remove LVM volumes](how-to-delete-or-remove-lvm-volumes.md)
