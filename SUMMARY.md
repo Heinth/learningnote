@@ -31,3 +31,4 @@
 * [Extending LV step by step](extending-lv-step-by-step.md)
 * [How to Delete or Remove LVM volumes](how-to-delete-or-remove-lvm-volumes.md)
 * [Delete a Partition in Linux](delete-a-partition-in-linux.md)
+* [How To Create Local YUM Repository on RHEL 8 using DVD](how-to-create-local-yum-repository-on-rhel-8-using-dvd.md)
