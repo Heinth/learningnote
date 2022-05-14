@@ -32,3 +32,4 @@
 * [How to Delete or Remove LVM volumes](how-to-delete-or-remove-lvm-volumes.md)
 * [Delete a Partition in Linux](delete-a-partition-in-linux.md)
 * [How To Create Local YUM Repository on RHEL 8 using DVD](how-to-create-local-yum-repository-on-rhel-8-using-dvd.md)
+* [Linux Special Permission](linux-special-permission.md)
