@@ -34,3 +34,4 @@
 * [How To Create Local YUM Repository on RHEL 8 using DVD](how-to-create-local-yum-repository-on-rhel-8-using-dvd.md)
 * [Linux Special Permission](linux-special-permission.md)
 * [Linux String Substitute](linux-string-substitute.md)
+* [Find command usages](find-command-usages.md)
