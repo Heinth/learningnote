@@ -36,3 +36,4 @@
 * [Linux String Substitute](linux-string-substitute.md)
 * [Find command usages](find-command-usages.md)
 * [Password reset for root](password-reset-for-root.md)
+* [How to create k8s cluster in VMware using ubuntu 18.04](how-to-create-k8s-cluster-in-vmware-using-ubuntu-18.04.md)
