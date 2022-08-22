@@ -38,3 +38,4 @@
 * [Password reset for root](password-reset-for-root.md)
 * [How to create k8s cluster in VMware using ubuntu 18.04](how-to-create-k8s-cluster-in-vmware-using-ubuntu-18.04.md)
 * [Linux Challenge Notes](linux-challenge-notes.md)
+* [How to Find Out Top Directories and Files (Disk Space) in Linux](how-to-find-out-top-directories-and-files-disk-space-in-linux.md)
