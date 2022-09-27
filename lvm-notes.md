@@ -10,6 +10,7 @@ vgcreate test_vg /dev/sdb1
 lvcreate -n test_lv -L 10G test_vg 
              (OR)
 lvcreate -n test_lv -l 100%FREE test_vg
+mkfs.ext4 /dev/test_vg/test_lv
 ```
 
 Second lvm remove.
