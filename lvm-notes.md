@@ -39,3 +39,10 @@ Resizing LV
 ```
 lvreduce -L -r -2G /dev/test_vg/test_lv
 ```
+
+Creating lvm with extend size
+
+```
+lvcreate -n lvshare -l 50 vg1
+lvcreate -n name -l extend_size vg_name
+```
