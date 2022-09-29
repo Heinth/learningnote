@@ -41,3 +41,4 @@
 * [Grub Bootloader password setup](grub-bootloader-password-setup.md)
 * [Repairing File system Issues at Boot](repairing-file-system-issues-at-boot.md)
 * [Prometheus,Grafana & Node\_Exporter](prometheus-grafana-and-node\_exporter.md)
+* [Fstab notes](fstab-notes.md)
