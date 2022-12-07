@@ -42,3 +42,4 @@
 * [Repairing File system Issues at Boot](repairing-file-system-issues-at-boot.md)
 * [Prometheus,Grafana & Node\_Exporter](prometheus-grafana-and-node\_exporter.md)
 * [Fstab notes](fstab-notes.md)
+* [Install kubectl in ubuntu](install-kubectl-in-ubuntu.md)
