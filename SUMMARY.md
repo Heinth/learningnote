@@ -43,3 +43,4 @@
 * [Prometheus,Grafana & Node\_Exporter](prometheus-grafana-and-node\_exporter.md)
 * [Fstab notes](fstab-notes.md)
 * [Install kubectl in ubuntu](install-kubectl-in-ubuntu.md)
+* [Upgrading redhat 6.4 to 7.9](upgrading-redhat-6.4-to-7.9.md)
