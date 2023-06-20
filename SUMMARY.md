@@ -45,3 +45,4 @@
 * [Install kubectl in ubuntu](install-kubectl-in-ubuntu.md)
 * [Upgrading redhat 6.4 to 7.9](upgrading-redhat-6.4-to-7.9.md)
 * [How to log every shell command in Linux](how-to-log-every-shell-command-in-linux.md)
+* [Creating EKS in AWS](creating-eks-in-aws.md)
